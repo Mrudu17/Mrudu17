@@ -40,4 +40,3 @@ Welcome to my GitHub space! I’m a Computer Data Science and Data Analytics stu
 🎨 I also love **drawing** bringing creativity into my work and hobbies.
 
 Let's collaborate and make data-driven magic happen! 🚀
-
