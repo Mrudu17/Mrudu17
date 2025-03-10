@@ -21,7 +21,7 @@ Welcome to my GitHub space! I’m a Computer Data Science and Data Analytics stu
 - Contributing to open-source projects related to **data science & automation**
 
 ### 🔥 GitHub Streaks & Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mrudu17&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
 
