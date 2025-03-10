@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ### 🔥 **GitHub Stats & Achievements**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical)
 
 ---
@@ -74,7 +74,6 @@ Let's collaborate and make data-driven magic happen! Feel free to reach out for 
 ### 🎵 **Fun Facts About Me**
 
 - 🎵 I have a passion for **singing** and enjoy exploring different genres of music.
-- 🎨 I love **drawing** and often incorporate creativity into my work and hobbies.
 - 🌍 I’m an avid learner and enjoy exploring new technologies and tools in the data space.
 
 ---
