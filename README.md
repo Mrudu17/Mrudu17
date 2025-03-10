@@ -48,35 +48,17 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrudu17&theme=react-dark)
 
+
 ---
 
 ### 🏆 **GitHub Trophies**
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=radical&row=2&column=3)
+<div align="center">
 
----
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📂 **Featured Projects**
+</div>
 
-1. **Sales Performance Dashboard**  
-   - Built an interactive **Power BI dashboard** to analyze sales trends and KPIs.
-   - [View Project](#)
-
-2. **Customer Segmentation using K-Means Clustering**  
-   - Applied **machine learning** to segment customers based on purchasing behavior.
-   - [View Project](#)
-
-3. **Exploratory Data Analysis (EDA) on COVID-19 Dataset**  
-   - Performed **data cleaning** and **visualization** to uncover insights.
-   - [View Project](#)
-
----
-
-### 📚 **Blogs & Articles**
-
-- [How to Create Interactive Dashboards in Power BI](#)
-- [Introduction to Machine Learning for Beginners](#)
-- [5 Tips for Effective Data Visualization](#)
 
 ---
 
