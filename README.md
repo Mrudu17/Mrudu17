@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Mrudu17&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrudu17&theme=radical" alt="GitHub Streak" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical" alt="GitHub Stats" />
