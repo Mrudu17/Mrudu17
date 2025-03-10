@@ -51,6 +51,12 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ---
 
+### 🐍 **GitHub Contribution Snake**
+
+![Snake Animation](https://github.com/Mrudu17/Mrudu17/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 🏆 **GitHub Trophies**
 
 <div align="center">
