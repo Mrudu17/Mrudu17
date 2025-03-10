@@ -2,7 +2,7 @@
 
 ### 🚀 Data Enthusiast | Aspiring Data Analyst | Lifelong Learner
 
-Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics student at **Loyola Academy**, passionate about leveraging **data science**, and **analytics** to derive actionable insights from complex datasets. I thrive on solving real-world problems through data-driven solutions and continuous learning.
+Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics student at **Loyola Academy**, passionate about leveraging **data science**, **cloud services**, and **analytics** to derive actionable insights from complex datasets. I thrive on solving real-world problems through data-driven solutions and continuous learning.
 
 ---
 
@@ -38,17 +38,8 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ### 🔥 **GitHub Stats & Achievements**
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrudu17&theme=radical" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
 
 ---
@@ -94,3 +85,6 @@ I’m always open to new opportunities, collaborations, and discussions. If you�
 **Let’s turn data into insights and insights into impact!**  
 
 ---
+
+this is very nice
+I want the streaks and stats to comeside by side and the languages beow..
