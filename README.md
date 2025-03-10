@@ -1,42 +1,106 @@
 ## 👋 Hello, I'm Mruduvani!
 
-### 🚀 Data Enthusiast | Aspiring Analyst 
+### 🚀 Data Enthusiast | Aspiring Data Analyst | Lifelong Learner
 
-Welcome to my GitHub space! I’m a Computer Data Science and Data Analytics student at Loyola Academy, passionate about leveraging cloud services, data science, and analytics to derive meaningful insights from real-time data.
+Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics student at **Loyola Academy**, passionate about leveraging **data science**, **cloud services**, and **analytics** to derive actionable insights from complex datasets. I thrive on solving real-world problems through data-driven solutions and continuous learning.
 
-### 🛠 Tech Stack:
+---
+
+### 🛠 **Tech Stack**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 💡 What I Do:
-- 🔍 **Data Exploration & Visualization** – Creating interactive dashboards with Power BI & Tableau
-- 📊 **Data Analysis** – Extracting insights using Python & R
-- 🤖 **Machine Learning** – Applying models to solve real-world problems
 
-### 🌱 What I'm Currently Working On:
-- Building **Power BI/Tableau dashboards** and sharing insights on **LinkedIn**
-- Enhancing my expertise in **data engineering & data analytics**
-- Contributing to open-source projects related to **data science & automation**
+---
 
-### 🔥 GitHub Streaks & Stats:
-![GitHub Streak](https://img.shields.io/badge/GitHub-Streak-red?style=for-the-badge)
+### 💡 **What I Do**
+
+- **📊 Data Analysis & Visualization**: Transforming raw data into meaningful insights using **Python**, **SQL**, **Tableau**, and **Power BI**.
+- **🤖 Machine Learning**: Building and deploying predictive models to solve real-world problems.
+- **🔍 Data Exploration**: Cleaning, preprocessing, and analyzing datasets to uncover trends and patterns.
+- **📈 Dashboard Development**: Creating interactive and insightful dashboards for stakeholders.
+- **🌐 Data Engineering**: Working with ETL pipelines and cloud platforms to manage and process large datasets.
+
+---
+
+### 🌱 **What I'm Currently Working On**
+
+- Building **interactive dashboards** in **Power BI** and **Tableau** to visualize key metrics and trends.
+- Enhancing my skills in **data engineering** and **cloud computing** (AWS, Azure, GCP).
+- Contributing to **open-source projects** related to data science and automation.
+- Sharing my learnings and projects on **LinkedIn** to connect with the data community.
+
+---
+
+### 🔥 **GitHub Stats & Achievements**
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
 
-### 📊 Contribution Graph:
+---
+
+### 📊 **Contribution Graph**
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrudu17&theme=react-dark)
 
-### 🏆 GitHub Trophies:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
+---
 
-### 🔗 Connect with Me:
+### 🏆 **GitHub Trophies**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=radical&row=2&column=3)
+
+---
+
+### 📂 **Featured Projects**
+
+1. **Sales Performance Dashboard**  
+   - Built an interactive **Power BI dashboard** to analyze sales trends and KPIs.
+   - [View Project](#)
+
+2. **Customer Segmentation using K-Means Clustering**  
+   - Applied **machine learning** to segment customers based on purchasing behavior.
+   - [View Project](#)
+
+3. **Exploratory Data Analysis (EDA) on COVID-19 Dataset**  
+   - Performed **data cleaning** and **visualization** to uncover insights.
+   - [View Project](#)
+
+---
+
+### 📚 **Blogs & Articles**
+
+- [How to Create Interactive Dashboards in Power BI](#)
+- [Introduction to Machine Learning for Beginners](#)
+- [5 Tips for Effective Data Visualization](#)
+
+---
+
+### 🔗 **Connect with Me**
+
+Let's collaborate and make data-driven magic happen! Feel free to reach out for discussions, collaborations, or just to say hi!  
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/s.k.mruduvani)  
 - ✉️ **Email:** suravarapumruduvani@gmail.com
+  
+---
 
-### 🎵 Fun Facts:
-🎵 I have a passion for **singing** and enjoy exploring different genres.  
-🎨 I also love **drawing** bringing creativity into my work and hobbies.
+### 🎵 **Fun Facts About Me**
 
-Let's collaborate and make data-driven magic happen! 🚀
+- 🎵 I have a passion for **singing** and enjoy exploring different genres of music.
+- 🎨 I love **drawing** and often incorporate creativity into my work and hobbies.
+- 🌍 I’m an avid learner and enjoy exploring new technologies and tools in the data space.
+
+---
+
+### 🚀 **Let's Collaborate!**
+
+I’m always open to new opportunities, collaborations, and discussions. If you’re interested in working together or have any questions, feel free to reach out!  
+
+**Let’s turn data into insights and insights into impact!**  
+
+---
