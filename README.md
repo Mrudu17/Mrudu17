@@ -38,8 +38,17 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ### 🔥 **GitHub Stats & Achievements**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Mrudu17&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
 
 ---
