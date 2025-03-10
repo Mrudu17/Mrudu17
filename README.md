@@ -26,13 +26,13 @@ Welcome to my GitHub space! I’m a Computer Data Science and Data Analytics stu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
 
 ### 📊 Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mruduvani&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrudu17&theme=react-dark)
 
 ### 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mruduvani&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=radical)
 
 ### 🔗 Connect with Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/mruduvani)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/s.k.mruduvani)  
 - ✉️ **Email:** suravarapumruduvani@gmail.com
 
 ### 🎵 Fun Facts:
