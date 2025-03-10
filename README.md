@@ -1,16 +1,43 @@
-## Hi there 👋
+## 👋 Hello, I'm Mruduvani!
 
-<!--
-**Mrudu17/Mrudu17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Enthusiast | Aspiring Analyst 
 
-Here are some ideas to get you started:
+Welcome to my GitHub space! I’m a Computer Data Science and Data Analytics student at Loyola Academy, passionate about leveraging cloud services, data science, and analytics to derive meaningful insights from real-time data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### 💡 What I Do:
+- 🔍 **Data Exploration & Visualization** – Creating interactive dashboards with Power BI & Tableau
+- 📊 **Data Analysis** – Extracting insights using Python & R
+- 🤖 **Machine Learning** – Applying models to solve real-world problems
+
+### 🌱 What I'm Currently Working On:
+- Building **Power BI/Tableau dashboards** and sharing insights on **LinkedIn**
+- Enhancing my expertise in **data engineering & data analytics**
+- Contributing to open-source projects related to **data science & automation**
+
+### 🔥 GitHub Streaks & Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mruduvani&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mruduvani&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mruduvani&layout=compact&theme=radical)
+
+### 📊 Contribution Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mruduvani&theme=react-dark)
+
+### 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mruduvani&theme=radical)
+
+### 🔗 Connect with Me:
+- 💼 [LinkedIn](https://www.linkedin.com/in/mruduvani)  
+- ✉️ **Email:** suravarapumruduvani@gmail.com
+
+### 🎵 Fun Facts:
+🎵 I have a passion for **singing** and enjoy exploring different genres.  
+🎨 I also love **drawing** bringing creativity into my work and hobbies.
+
+Let's collaborate and make data-driven magic happen! 🚀
+
