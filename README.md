@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-
 ---
 
 ### 💡 **What I Do**
@@ -36,18 +35,30 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ---
 
-### 🔥 **GitHub Stats & Achievements**
+### 📊 **GitHub Stats & Achievements**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-around;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </div>
+  <div>
+    <img src="https://streak-stats.demolab.com/?user=Mrudu17&theme=radical" alt="GitHub Streaks" />
+  </div>
+</div>
 
 ---
 
-### 📊 **Contribution Graph**
+### 🏆 **GitHub Trophies**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrudu17&theme=react-dark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
+---
+
+### 📚 **Top Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
 
 ---
 
@@ -57,24 +68,13 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ---
 
-### 🏆 **GitHub Trophies**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
----
-
 ### 🔗 **Connect with Me**
 
-Let's collaborate and make data-driven magic happen! Feel free to reach out for discussions, collaborations, or just to say hi!  
+Let's collaborate and make data-driven magic happen! Feel free to reach out for discussions, collaborations, or just to say hi!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/s.k.mruduvani)  
 - ✉️ **Email:** suravarapumruduvani@gmail.com
-  
+
 ---
 
 ### 🎵 **Fun Facts About Me**
@@ -86,11 +86,9 @@ Let's collaborate and make data-driven magic happen! Feel free to reach out for 
 
 ### 🚀 **Let's Collaborate!**
 
-I’m always open to new opportunities, collaborations, and discussions. If you’re interested in working together or have any questions, feel free to reach out!  
+I’m always open to new opportunities, collaborations, and discussions. If you’re interested in working together or have any questions, feel free to reach out!
 
-**Let’s turn data into insights and insights into impact!**  
+**Let’s turn data into insights and insights into impact!**
 
 ---
 
-this is very nice
-I want the streaks and stats to comeside by side and the languages beow..
