@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Mruduvani!
 
-### 🚀 Data Enthusiast | Aspiring Data Analyst
+### 🚀 Data Enthusiast | Aspiring Data Analyst 
 
 Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics student at **Loyola Academy**, passionate about leveraging **data science**, **cloud services**, and **analytics** to derive actionable insights from complex datasets. I thrive on solving real-world problems through data-driven solutions and continuous learning.
 
@@ -37,13 +37,15 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ### 📊 **GitHub Stats & Achievements**
 
-<div style="display: flex; justify-content: space-around;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://streak-stats.demolab.com/?user=Mrudu17&theme=radical" alt="GitHub Streaks" />
-  </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical)
+![GitHub Streaks](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
+
+---
+
+### 🏆 **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -73,6 +75,16 @@ Let's collaborate and make data-driven magic happen! Feel free to reach out for 
 
 - 🎵 I have a passion for **singing** and enjoy exploring different genres of music.
 - 🌍 I’m an avid learner and enjoy exploring new technologies and tools in the data space.
+
+---
+
+### 🚀 **Let's Collaborate!**
+
+I’m always open to new opportunities, collaborations, and discussions. If you’re interested in working together or have any questions, feel free to reach out!
+
+**Let’s turn data into insights and insights into impact!**
+
+---
 
 ---
 
