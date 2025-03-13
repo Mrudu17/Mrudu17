@@ -56,9 +56,15 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ---
 
+### 📊 **Contribution Graph**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrudu17&theme=react-dark)
+
+---
+
 ### 🐍 **GitHub Contribution Snake**
 
-![Snake Animation](https://github.com/Mrudu17/Mrudu17/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Mrudu17/Mrudu17/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -86,7 +92,6 @@ I’m always open to new opportunities, collaborations, and discussions. If you�
 
 ---
 
----
 
 ### 🚀 **Let's Collaborate!**
 
