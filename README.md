@@ -92,12 +92,3 @@ I’m always open to new opportunities, collaborations, and discussions. If you�
 
 ---
 
-
-### 🚀 **Let's Collaborate!**
-
-I’m always open to new opportunities, collaborations, and discussions. If you’re interested in working together or have any questions, feel free to reach out!
-
-**Let’s turn data into insights and insights into impact!**
-
----
-
