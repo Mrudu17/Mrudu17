@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Mruduvani!
 
-### 🚀 Data Enthusiast | Aspiring Data Analyst | Lifelong Learner
+### 🚀 Data Enthusiast | Aspiring Data Analyst
 
 Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics student at **Loyola Academy**, passionate about leveraging **data science**, **cloud services**, and **analytics** to derive actionable insights from complex datasets. I thrive on solving real-world problems through data-driven solutions and continuous learning.
 
@@ -44,14 +44,6 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
   <div>
     <img src="https://streak-stats.demolab.com/?user=Mrudu17&theme=radical" alt="GitHub Streaks" />
   </div>
-</div>
-
----
-
-### 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
