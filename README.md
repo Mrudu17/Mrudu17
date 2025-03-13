@@ -50,6 +50,12 @@ Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics s
 
 ---
 
+### 🎆**Activity Graph**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
+
+---
+
 ### 📚 **Top Languages**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
