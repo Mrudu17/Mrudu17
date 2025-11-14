@@ -71,7 +71,7 @@ Welcome to my GitHub! I’m a final-year **Computer Data Science & Data Analytic
 
 ## 🧾 Profile Visits
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mrudu17/&title=Profile%20Views)
+<img src="https://visitcount.itsvg.in/api?id=Mrudu17" width="200">
 
 ---
 
