@@ -1,94 +1,98 @@
 ## 👋 Hello, I'm Mruduvani!
 
-### 🚀 Data Enthusiast | Aspiring Data Analyst
+### 🚀 Data Enthusiast | Aspiring Data Analyst  
+Currently working at **HSBC** as a *PT Assurance Test Analyst*
 
-Currently working with HSBC as a PT ASSURANCE TEST ANALYST
-
-Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics student at **Loyola Academy**, passionate about leveraging **data science**, **cloud services**, and **analytics** to derive actionable insights from complex datasets. I thrive on solving real-world problems through data-driven solutions and continuous learning.
-
----
-
-### 🛠 **Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+Welcome to my GitHub! I’m a final-year **Computer Data Science & Data Analytics** student at **Loyola Academy**, passionate about turning raw data into impactful insights. I love combining analytics, cloud services, and automation to solve real-world problems.
 
 ---
 
-### 💡 **What I Do**
+## 🛠️ Tech Stack
 
-- **📊 Data Analysis & Visualization**: Transforming raw data into meaningful insights using **Python**, **SQL**, **Tableau**, and **Power BI**.
-- **🤖 Machine Learning**: Building and deploying predictive models to solve real-world problems.
-- **🔍 Data Exploration**: Cleaning, preprocessing, and analyzing datasets to uncover trends and patterns.
-- **📈 Dashboard Development**: Creating interactive and insightful dashboards for stakeholders.
-- **🌐 Data Engineering**: Working with ETL pipelines and cloud platforms to manage and process large datasets.
-
----
-
-### 🌱 **What I'm Currently Working On**
-
-- Building **interactive dashboards** in **Power BI** and **Tableau** to visualize key metrics and trends.
-- Enhancing my skills in **data engineering** and **cloud computing** (AWS, Azure, GCP).
-- Contributing to **open-source projects** related to data science and automation.
-- Sharing my learnings and projects on **LinkedIn** to connect with the data community.
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 **GitHub Stats & Achievements**
+## 💡 What I Do
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical)
-![GitHub Streaks](https://streak-stats.demolab.com/?user=Mrudu17&theme=radical)
+- 📊 **Data Analysis & Visualization** using Python, SQL, Tableau & Power BI  
+- 🤖 **Machine Learning** – building predictive models  
+- 🧼 **Data Cleaning & Exploration**  
+- 📈 **Dashboard Development** for decision-making  
+- ⚙️ **Data Engineering basics** – ETL pipelines & cloud learning  
+- 🌐 **Cloud** – exploring AWS, Azure & GCP  
 
 ---
 
-### 🏆 **GitHub Trophies**
+## 🌱 Current Focus
+
+- Creating **Power BI & Tableau dashboards** for LinkedIn  
+- Building projects around **data engineering + analytics**  
+- Improving machine learning project structure  
+- Contributing to open-source data automation tools  
+- Preparing for **data analyst roles**  
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrudu17&show_icons=true&theme=radical" height="170"/>  
+  <img src="https://streak-stats.demolab.com?user=Mrudu17&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mrudu17&theme=onedark&row=2&column=3&margin-w=15&margin-h=15"/>
 </div>
 
 ---
 
-### 📚 **Top Languages**
+## 📚 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrudu17&layout=compact&theme=radical"/>
 
 ---
 
-### 📊 **Contribution Graph**
+## 🌐 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mrudu17&theme=react-dark)
 
 ---
-###  🧾**Visits**
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+
+## 🧾 Profile Visits
+
+![Visitor Count](https://profile-counter.glitch.me/Mrudu17/count.svg)
 
 ---
 
-### 🔗 **Connect with Me**
+## 🔗 Connect With Me
 
-Let's collaborate and make data-driven magic happen! Feel free to reach out for discussions, collaborations, or just to say hi!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/s.k.mruduvani)  
-- ✉️ **Email:** suravarapumruduvani@gmail.com
+- 💼 **LinkedIn:** [S.K. Mruduvani](https://www.linkedin.com/in/s.k.mruduvani)  
+- ✉️ **Email:** suravarapumruduvani@gmail.com  
 
 ---
 
-### 🎵 **Fun Facts About Me**
+## 🎵 Fun Facts
 
-- 🎵 I have a passion for **singing** and enjoy exploring different genres of music.
-- 🌍 I’m an avid learner and enjoy exploring new technologies and tools in the data space.
-
----
-
-### 🚀 **Let's Collaborate!**
-
-I’m always open to new opportunities, collaborations, and discussions. If you’re interested in working together or have any questions, feel free to reach out!
-
-**Let’s turn data into insights and insights into impact!**
+- 🎶 I love **singing** and exploring musical genres  
+- 🎨 I enjoy **drawing** and creative design  
+- 💡 Always exploring new tools, tech, and ideas  
 
 ---
 
+## 🚀 Let’s Collaborate!
+
+I'm always open to discussions, contributions, or project ideas.  
+**Let’s turn data into insights — and insights into impact!**
+
+---
