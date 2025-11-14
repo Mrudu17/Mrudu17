@@ -71,7 +71,7 @@ Welcome to my GitHub! I’m a final-year **Computer Data Science & Data Analytic
 
 ## 🧾 Profile Visits
 
-![Profile views](https://komarev.com/ghpvc/?username=Mrudu17&color=blue)
+![Profile Visits](https://visitcount.itsvg.in/api?id=Mrudu17&label=Profile%20Views&color=3&icon=5&pretty=true)
 
 ---
 
