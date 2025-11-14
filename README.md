@@ -71,7 +71,7 @@ Welcome to my GitHub! I’m a final-year **Computer Data Science & Data Analytic
 
 ## 🧾 Profile Visits
 
-![Visitor Count](https://profile-counter.glitch.me/Mrudu17/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Mrudu17/count.svg?v=1)
 
 ---
 
