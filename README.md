@@ -71,7 +71,7 @@ Welcome to my GitHub! I’m a final-year **Computer Data Science & Data Analytic
 
 ## 🧾 Profile Visits
 
-<img src="https://visitcount.itsvg.in/api?id=Mrudu17" width="200">
+<img src="https://visitcount.itsvg.in/api?id=Mrudu17" width="100">
 
 ---
 
