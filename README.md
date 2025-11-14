@@ -1,6 +1,8 @@
 ## 👋 Hello, I'm Mruduvani!
 
-### 🚀 Data Enthusiast | Aspiring Data Analyst 
+### 🚀 Data Enthusiast | Aspiring Data Analyst
+
+Currently working with HSBC as a PT ASSURANCE TEST ANALYST
 
 Welcome to my GitHub profile! I’m a Computer Data Science and Data Analytics student at **Loyola Academy**, passionate about leveraging **data science**, **cloud services**, and **analytics** to derive actionable insights from complex datasets. I thrive on solving real-world problems through data-driven solutions and continuous learning.
 
